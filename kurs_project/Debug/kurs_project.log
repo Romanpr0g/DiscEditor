@@ -1,0 +1,12 @@
+﻿  Disc.cpp
+E:\kurs_project\kurs_project\Disc.cpp(108,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\kurs_project\kurs_project\Disc.cpp(109,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Main.cpp
+  Menu.cpp
+  Print_PhysicalDrive.cpp
+  SectionChange.cpp
+E:\kurs_project\kurs_project\SectionChange.cpp(20,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\kurs_project\kurs_project\SectionChange.cpp(21,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\kurs_project\kurs_project\SectionChange.cpp(22,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  kurs_project.vcxproj -> E:\kurs_project\Debug\kurs_project.exe
